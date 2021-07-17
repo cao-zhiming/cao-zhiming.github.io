@@ -1,3 +1,68 @@
 ==================================================================
 https://keybase.io/caozhimingbot
 --------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cao-zhiming.github.io
+  * I am caozhimingbot (https://keybase.io/caozhimingbot) on keybase.
+  * I have a public key with fingerprint 47C4 80D8 728C 52C7 0E5D  549A C3AA 4420 0996 74FB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010183cacafd1d1b677ef8e8c3f1746f1672bd5fb86cc7957ab0f6968df22e55f58a0a",
+      "fingerprint": "47c480d8728c52c70e5d549ac3aa4420099674fb",
+      "host": "keybase.io",
+      "key_id": "c3aa4420099674fb",
+      "kid": "010183cacafd1d1b677ef8e8c3f1746f1672bd5fb86cc7957ab0f6968df22e55f58a0a",
+      "uid": "c539d53a62a3821922af1d63b0f9bb19",
+      "username": "caozhimingbot"
+    },
+    "service": {
+      "hostname": "cao-zhiming.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1626487023,
+  "expire_in": 157680000,
+  "prev": "99a56cea879b527dcbc19c2d4b1e566200f6d3599f422136e4d495a57161cb8a",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMItAnicrZJJaBRBFIZnMonLRFHRHESD2IqgxNhV3VVdPYoHBUFQ4naQqIxV1dUz
+nZjusbsnMS4oLhcJLhdFRD24gMS4RhCJEsVIIC5IIqIEBhGRBEUjLojRWO2CF4/W
+paiq7//f/x51Z3Qiloz3PoAd7R8OdMe7bp3Ox9a/J2+3KMyzGpXUFqVW/NzEBksE
+YbrWsZSUogIVEI1TTm0LWIBhwxA2EYRrNjB0bANsQGYhmxHMuWEigzLVxiYmlg2h
+QMhGhKpUqVBsx80IP+c7bihtdYPrRLWIAQlHkBuqQBbSTco1SnUdqqppYkO3mRRm
+vSBSyHCMBqLS8eSdPKR/xvsH/59z53/VQZppIY1iSDUCgQkhtYGFNSkyGQNmBAbC
+d2mdiGjqbc46dbJj5oXKtgpFPtU7XETTjdr5i83+zVVmnDCbZ7+6y/le6HFvg0Sy
+YZgLUpFF2JiLNA2CpX+7pZnjWlIrFfXCDxzPVVJAkjx0InuAIdaJoUKtQhGbco4v
+0k5EIAMTVa6ojqiXlqZJEeaCEsNkCBoWZxyYHFo6AwJhLIdrY0tDpmnrEAINC93S
+TUSRATDgjERDCsRG11NSRMakGWkZOBmXhnlfKNtut68tjsWTsWElRdFviyVHjv3z
+B0fWDP+eKiiXxx+bfGLwxajnV5u9Sd+Cc/1FuaLB6p6S3StHvRP2y6MrnlyoQ7WX
+7q8au28K+1y6XMkvLjuauXPokdbyserZYPMnt2ZBoX/60I1XDyfvaUoOfLkyc+mZ
+XTOqhrav27uzpgCT+cGejNtbetF/DUfMq5lY8uzxmKahJa3DVk3fkWyuWnhhwrWb
+7etnbmq8m+1ryezaURy/srjj1gd953VfK+4/ftXoLR5aHaBTXYW+3nv77w3kOmcl
+zpX33f3S9CbRUr1s3cCbp+Vd3cPbzoYDDNxObU3Q1oZpy9fMndpUvpDPn1NaGPfi
+/P74efvIos5UWUMbKUt8bT3edvLwwSUzOjt/AOq1TVc=
+=SMYM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/caozhimingbot
+
+==================================================================
